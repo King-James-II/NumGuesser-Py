@@ -1,4 +1,4 @@
-# Number Guesser Game
+# NumGuesser Game
 
 This program is a simple random number guessing game. The user guesses a number between 1 and 10 until they guess the correct number. After each guess, the program provides feedback on whether the guess is too high or too low. Once the correct number is guessed, the user is asked if they want to play again.
 
