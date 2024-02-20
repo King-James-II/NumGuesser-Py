@@ -1,26 +1,28 @@
-# NumGuesser Game
+# Number Guesser Game
 
-This program is a simple random number guessing game. The user guesses a number between 1 and 10 until they guess the correct number. After each guess, the program provides feedback on whether the guess is too high or too low. Once the correct number is guessed, the user is asked if they want to play again.
+This program is a simple random number guessing game where the user guesses a number between 1 and 10 until they guess correctly. After each guess, the program provides feedback on whether the guess is too high or too low.
 
 ## How to Play
 
-1. Run the program.
-2. Guess a number between 1 and 10.
-3. Receive feedback on whether your guess is too high or too low.
-4. Continue guessing until you guess the correct number.
-5. After guessing correctly, choose whether to play again.
+1. Guess a number between 1 and 10.
+2. Receive feedback on whether your guess is too high or too low.
+3. Continue guessing until you guess the correct number.
+4. After guessing correctly, choose whether to play again.
 
-## Technologies Used
+## Technologies & Concepts Used
 
-- Python
-- Random module
+- **Python**: The programming language used.
+- **Random Module**: Utilized for generating random numbers.
+- **Functions**: Structured the program into functions for modularity.
+- **Loops**: Allow continuous guessing until the correct number is guessed.
+- **Error Handling**: Handles invalid inputs, such as non-integer values.
 
-## How to Run the Program
+## How to Run
 
-1. Clone the repository or download the Python script file.
-2. Ensure you have Python installed on your machine.
+1. Clone or download the Python script.
+2. Ensure Python is installed.
 3. Open a terminal or command prompt.
-4. Navigate to the directory where the Python script is located.
-5. Run the script using the command: `python num_guesser.py` 
+4. Navigate to the script directory.
+5. Run the script: `python num_guesser.py`
 
-Enjoy playing the game!
+Enjoy the game!
